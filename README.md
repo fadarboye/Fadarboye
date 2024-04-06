@@ -1,3 +1,4 @@
+![Discord](https://img.shields.io/discord/1200102601451114547?logo=github&label=chat&labelColor=blue&color=green)
 - 👋 Hi, I’m Adeboye!
 - 💞️ I’m looking to collaborate on ... Kubernetes | Github 
 - ⚡ Fun fact: ... Working on my README 😀
