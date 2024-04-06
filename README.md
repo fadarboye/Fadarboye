@@ -4,8 +4,8 @@
 
 - 👋 Hi, I’m Adeboye!
 - 💜 I’m looking to collaborate on ... Kubernetes | Github 
-- ⚡ Fun fact: ... Working on my README 😀
-- 🏬 Working at ... @Microsoft🟦🟧🟨🟩
+- 😀 Fun fact: ... Working on my README 
+- 🏬 Working at ... @Microsoft
  
 
 <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
