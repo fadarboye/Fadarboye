@@ -11,7 +11,8 @@
 
  As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I have experience in designing, deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
 
-## Connect with me on   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
