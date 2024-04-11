@@ -1,7 +1,9 @@
 ![Discord](https://img.shields.io/discord/1200102601451114547?logo=github&labelColor=blue)   
+
 ## 👋 Hi, I’m ADEBOYE!
 
-<img width="600" alt="Screenshot 2024-04-06 012838" src="https://github.com/fadarboye/fadarboye/assets/130584349/0047c860-9689-49fb-9d77-2090d15199aa">   
+![Screenshot 2024-04-11 130209](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/9b7360c7-5f6a-4f0d-a0dc-4cbd08610e0b)
+ 
 
 
 - 💜 I’m looking to collaborate on ... Kubernetes | Github 
