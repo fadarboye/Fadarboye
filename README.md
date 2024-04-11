@@ -15,9 +15,6 @@
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
-![giphy (2)](https://github.com/fadarboye/Fadarboye/assets/130584349/31ec6982-6eed-4e6e-80c3-ec032d8883e0)
-
-
 
 <!---
 fadarboye/fadarboye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
