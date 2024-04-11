@@ -1,4 +1,3 @@
-![Discord](https://img.shields.io/discord/1200102601451114547?logo=github&labelColor=blue)   
 ## 😃 Hi, I’m  Adeboye!
 ![Screenshot 2024-04-11 130209](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/9b7360c7-5f6a-4f0d-a0dc-4cbd08610e0b)
  
@@ -14,7 +13,7 @@
 
 ## Connect With Me!
 
-<a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  ![Discord](https://img.shields.io/discord/1200102601451114547?logo=github&labelColor=blue)   
 ![giphy (1)](https://github.com/fadarboye/Fadarboye/assets/130584349/95d2d7ec-989c-4d18-9385-7ca0aa8fcfa4)
 
 
