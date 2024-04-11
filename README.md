@@ -16,13 +16,8 @@
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
-![giphy (2)](https://github.com/fadarboye/Fadarboye/assets/130584349/f693fbb7-a6da-4703-93a5-953fc1930041)
+![31239479-d554f29c-a9c2-11e7-8138-71483d537ca9](https://github.com/fadarboye/Fadarboye/assets/130584349/1778cd90-9dbb-46e3-8125-cb751c83e236)
 
-
-<div align="center">
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/></code>
-	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
-</div>
 
 <!---
 fadarboye/fadarboye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
