@@ -6,7 +6,8 @@
 - 💜 I’m looking to collaborate on ... Kubernetes | Github 
 - 😀 Fun fact: ... Working on my README 
 - 🏬 Working at ... @Microsoft
- 
+  
+ As an Azure Engineer at Microsoft, I have experience in designing, deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
 
 <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 
