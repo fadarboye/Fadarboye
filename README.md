@@ -5,7 +5,7 @@
 
 - 💜 I’m looking to collaborate on ... Kubernetes | Github 
 - 😀 Fun fact: ... Working on my README 
-- 🌎 Working at ... ![Screenshot 2024-04-11 124804](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/4f4e0dbc-f942-4949-87c9-598c583e9a80) Microsoft 
+- 🏬 Working at ... ![Screenshot 2024-04-11 124804](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/4f4e0dbc-f942-4949-87c9-598c583e9a80) Microsoft 
 
 ---
 
