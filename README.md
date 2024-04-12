@@ -1,4 +1,4 @@
-# Hi, I’m  Adeboye! 
+# Hello, I’m  Adeboye! 
 
 
 ![Screenshot 2024-04-11 130209](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/9b7360c7-5f6a-4f0d-a0dc-4cbd08610e0b)
@@ -16,8 +16,7 @@
 
 ![Screenshot 2024-04-12 083830](https://github.com/fadarboye/Fadarboye/assets/130584349/fdc05b2e-6552-401b-bec0-b39ba7b1f69a)
 
-## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
-
+## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fadarboye@gmail.com) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
 
 
 I believe in the power of collaboration and learning from others. Whether you're a seasoned developer, a curious newcomer, or anyone in between, I invite you to explore my repositories, leave feedback, or even collaborate on projects together. Together, we can push the boundaries of what's possible in the world of technology.
