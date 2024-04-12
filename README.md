@@ -8,9 +8,12 @@
 🟤 Fun fact: ... Working on my README    
 🟤 Working at ... ![Screenshot 2024-04-11 124804](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/4f4e0dbc-f942-4949-87c9-598c583e9a80) Microsoft 
 
- As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I designing, deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
 
 ![Screenshot 2024-04-12 130459](https://github.com/fadarboye/Fadarboye/assets/130584349/74ffc512-4809-41ed-98cf-d546c3d7e6ac)
+
+ As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
+
+![Screenshot 2024-04-12 140901](https://github.com/fadarboye/Fadarboye/assets/130584349/d4a96fc0-4c29-4450-b3c2-712c6b19a87e)
 
 I believe in the power of collaboration and learning from others. Whether you're a seasoned developer, a curious newcomer, or anyone in between, I invite you to explore my repositories, leave feedback, or even collaborate on projects together. Together, we can push the boundaries of what's possible in the world of technology.
 
