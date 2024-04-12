@@ -17,12 +17,13 @@
 
  As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I designing, deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
 
+![Screenshot 2024-04-12 083830](https://github.com/fadarboye/Fadarboye/assets/130584349/fdc05b2e-6552-401b-bec0-b39ba7b1f69a)
 ## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 I believe in the power of collaboration and learning from others. Whether you're a seasoned developer, a curious newcomer, or anyone in between, I invite you to explore my repositories, leave feedback, or even collaborate on projects together. Together, we can push the boundaries of what's possible in the world of technology.
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
-![31239479-d554f29c-a9c2-11e7-8138-71483d537ca9](https://github.com/fadarboye/Fadarboye/assets/130584349/bda3fa79-a63c-4895-9799-bc6ec83957d0)
+
 
 
 
