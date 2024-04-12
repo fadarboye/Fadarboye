@@ -14,7 +14,7 @@
 
 ![Screenshot 2024-04-12 083830](https://github.com/fadarboye/Fadarboye/assets/130584349/fdc05b2e-6552-401b-bec0-b39ba7b1f69a)
 
-## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
+## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
 
 
 
