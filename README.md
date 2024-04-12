@@ -14,10 +14,11 @@
 
 ![Screenshot 2024-04-12 130459](https://github.com/fadarboye/Fadarboye/assets/130584349/74ffc512-4809-41ed-98cf-d546c3d7e6ac)
 
+I believe in the power of collaboration and learning from others. Whether you're a seasoned developer, a curious newcomer, or anyone in between, I invite you to explore my repositories, leave feedback, or even collaborate on projects together. Together, we can push the boundaries of what's possible in the world of technology.
+
+
 ## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fadarboye@gmail.com) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
 
-
-I believe in the power of collaboration and learning from others. Whether you're a seasoned developer, a curious newcomer, or anyone in between, I invite you to explore my repositories, leave feedback, or even collaborate on projects together. Together, we can push the boundaries of what's possible in the world of technology.
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
