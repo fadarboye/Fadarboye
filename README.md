@@ -22,6 +22,7 @@ I believe in the power of collaboration and learning from others. Whether you're
 
 ![](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=discord&logoColor=white&label=Discord&labelColor=blue)  ![Discord](https://img.shields.io/discord/1200102601451114547?style=flat-square&logo=Github&logoColor=white&label=Github&labelColor=blue&color=gold)
 
+![31239479-d554f29c-a9c2-11e7-8138-71483d537ca9](https://github.com/fadarboye/Fadarboye/assets/130584349/bda3fa79-a63c-4895-9799-bc6ec83957d0)
 
 
 
