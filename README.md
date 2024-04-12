@@ -10,11 +10,9 @@
 
 🟤 Working at ... ![Screenshot 2024-04-11 124804](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/4f4e0dbc-f942-4949-87c9-598c583e9a80) Microsoft 
 
----
-
  As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I designing, deploying, and managing Azure Kubernetes Service (AKS), a fully managed container orchestration system that automates software deployment, scaling, and management. I have also obtained multiple certifications in Azure Containers and Accessibility in Action from Microsoft, demonstrating my proficiency and commitment to delivering high-quality and accessible cloud solutions.
 
-![Screenshot 2024-04-12 083830](https://github.com/fadarboye/Fadarboye/assets/130584349/fdc05b2e-6552-401b-bec0-b39ba7b1f69a)
+![Screenshot 2024-04-12 130459](https://github.com/fadarboye/Fadarboye/assets/130584349/74ffc512-4809-41ed-98cf-d546c3d7e6ac)
 
 ## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fadarboye@gmail.com) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
 
