@@ -17,8 +17,7 @@ I believe in the power of collaboration and learning from others. Whether you're
 
 
 
-
-
+![fadarboye's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadarboye&show_icons=true&theme=radical)
 
 
 <!---
