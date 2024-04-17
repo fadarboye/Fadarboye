@@ -17,15 +17,6 @@ As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I deploying,
 ![fadarboye's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadarboye&show_icons=true&theme=radical)
 
 
-<p align="center">
-	<img src="./assets/banner.svg" width="800px">
-</p>
-
-
-
-
-> Embed your website's pagespeed score to your readme
-
 
   
 <!---
