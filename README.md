@@ -11,7 +11,7 @@ As an Azure Engineer at [Microsoft](https://github.com/microsoft),  I deploying,
 
 ![Screenshot 2024-04-12 140901](https://github.com/fadarboye/Fadarboye/assets/130584349/d4a96fc0-4c29-4450-b3c2-712c6b19a87e)
 
-## Connect with me on   <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fadarboye@gmail.com) ![Static Badge](https://img.shields.io/badge/Yahoo!%20--mail?style=for-the-badge&logo=Yahoo!&label=Yahoo!&labelColor=purple&color=white) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
+### Connect with me on my  <a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:fadarboye@gmail.com)  ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) ![d227262c080c4a619c4b3d06d20c3838](https://github.com/fadarboye/Fadarboye/assets/130584349/56af8aeb-627a-4190-8e17-e3b94e843136) 
 
 
 ![fadarboye's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadarboye&show_icons=true&theme=radical)
