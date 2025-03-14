@@ -2,7 +2,7 @@
 
 ![Screenshot 2024-04-11 130209](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/9b7360c7-5f6a-4f0d-a0dc-4cbd08610e0b)
 - 🔭Looking for collaboration and learning from others, whether you're a seasoned developer, a curious newcomer, leave feedback.
-- 🌍Fun Fact    .... Working on my README, Together we can push the boundaries of what's possible in the world of technology
+- 🌍Fun Fact    .... Working on my README, Together we can push the boundaries of what's possible in the world of technology.
 - ⚡Working at  .... ![Screenshot 2024-04-11 124804](https://github.com/fadarboye/Level-Up-Your-Profile/assets/130584349/4f4e0dbc-f942-4949-87c9-598c583e9a80) Microsoft.
 
 
